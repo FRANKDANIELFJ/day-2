@@ -1,5 +1,5 @@
 name = "Frank"
-age = 666
+age = 66
 salary = 40000
 
 print("Name:", name)
